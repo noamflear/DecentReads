@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville&display=swap');
+
+.rowC{
+display:flex; 
+flex-direction:row;
+}
+*{
+	font-family: 'Baskervville', serif;
+	font-weight: bold;
+}
+.Reviews{
+	width: 550px;
+	height: 1000px;
+	margin-left: 450px;
+	background-color: #ffffff;
+}
+
+#Contact {
+	width: 1435px;
+	height: 250px;
+	border: solid;
+	box-shadow: 5px 10px;
+	background-color: #7FD1AE;
+}
+.topNavBar{
+	height: 50px;
+	background-color:  #915e2a;
+	box-shadow: 5px 2px #808080;
+	overflow: hidden;
+}
+.contactEmail{
+	margin-left: 50px;
+	font-size:15px ;
+}
+.contactName{
+	margin-left: 50px;
+	font-size:20px ;
+}
+#contactHeader{
+	text-align: center;
+}
+.center{
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+}
+.summary{
+	font-size: 15px;
+	margin-left: 100px;
+}
+.person{
+	font-weight: bold;
+	display: inline;
+	float: left;
+	margin-left: 135px;
+}
+#root{
+	background-color: #ffffff;
+}
+.bookCover{
+	height: 130px;
+	weight: 65px;
+	display: inline;
+	float: left;
+}
+.book{
+	border: solid grey;
+	border-width: 1px;
+	width: 675px;
+	margin-left: -250px;
+	background-color: #e0dfde;
+	float: left;
+}
+.mainLogo{
+	margin-top: 2px;
+}
+#bestBook{
+	float: left;
+	border: solid grey;
+	border-width: 1px;
+	width: 275px;
+	height: 805px;
+	background-color: #e0dfde;
+	display: inline;
+}
+.bestBookBox{
+	margin-left: 100px;
+	text-align: center;
+}
+.bestCover{
+	height: 170px;
+	weight: 85px;
+	display: inline;
+	float: left;
+}
+  
