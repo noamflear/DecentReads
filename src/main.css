@@ -13,7 +13,7 @@ flex-direction:row;
 	height: 830px;
 	background-color: #ffffff;
 	margin-top: -10px;
-	margin-bottom: -120px;
+	margin-bottom: -230px;
 }
 .title{
 	text-align: center;
@@ -51,7 +51,6 @@ flex-direction:row;
 }
 .summary{
 	font-size: 15px;
-	margin-left: 100px;
 }
 .person{
 	font-weight: bold;
@@ -71,7 +70,7 @@ flex-direction:row;
 .book{
 	border: solid grey;
 	border-width: 0px;
-	width: 49%;
+	width: 49.7%;
 	height: 300px;
 	background-color: #e0dfde;
 	float: left;
@@ -184,9 +183,22 @@ flex-direction:row;
 }
 #Book3{
 	float: left;
-	margin-top: 0px;
+	margin-top: -27px;
 }
 #Book4{
 	float: right;
-	margin-top: -168px;	
+	margin-top: -195px;	
+}
+#Summary1{
+	margin-left: 460px;
+}
+#Summary2{
+	margin-left: 460px;
+}
+#Summary3{
+	margin-left: 240px;
+}
+#Summary4{
+	margin-left: 310px;
+
 }
