@@ -5,12 +5,10 @@ class NavBar extends Component {
 	render(){
 		return (
 			<div className="topNavBar">
-				<a className="navbar-brand" href ="App.js">
-				<img className= "mainLogo" src={ logo } alt="logo"/>
-				</a>
-				<a className ="btn" href="App.js">Home</a>
-				<a className = "btn" href="#Contact">Contact</a>
-				<a className = "btn" href="#about">About</a>
+				<a className = "btn mainLogo" href="App.js">DecentReads</a>
+				<a className = "btn button" href="#about">About</a>
+				<a className = "btn button" href="#Contact">Contact</a>
+				<a className ="button btn" href="App.js">Home</a>
 		 	 </div>
 			);
 	}

@@ -5,17 +5,21 @@ import './main.css'
 import Reviews from './components/reviews';
 import Contact from './components/contact';
 import BestBook from './components/bestBook';
+import MainImg from './components/mainImg';
+import About from './components/about';
 
 function App() {
   return (
-    <React.Fragment id="main">
+    <React.Fragment>
       <NavBar/>
+      <MainImg/>
+      <About/>
       <br/>
       <br/>
-      <div className="rowC">
-        <BestBook/>
-      	<Reviews/>
-      </div>
+      <BestBook/>
+      <br/>
+      <br/>
+      <Reviews/>
       <br/>
       <br/>
       <Contact/>

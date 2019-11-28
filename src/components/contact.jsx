@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import registered from "../registered.jpg";
 class Contact extends Component{
 
 	render() {
@@ -20,6 +20,8 @@ class Contact extends Component{
 				<p className="contactName">Michelle Pham: </p>
 				<p className="contactEmail">Email: thuyvan.pham@ryerson.ca</p>
 				</div>
+				<br/><br/><br/><br/>
+				<p className ="trademark">DecentReads &trade;</p>
 			</div>
 
 			);
