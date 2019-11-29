@@ -6,9 +6,9 @@ class NavBar extends Component {
 		return (
 			<div className="topNavBar">
 				<a className = "btn mainLogo" href="App.js">DecentReads</a>
-				<a className = "btn button" href="#about">About</a>
-				<a className = "btn button" href="#Contact">Contact</a>
-				<a className ="button btn" href="App.js">Home</a>
+				<a className = "btn navButton" href="#about">About</a>
+				<a className = "btn navButton" href="#Contact">Contact</a>
+				<a className ="btn navButton" href="App.js">Home</a>
 		 	 </div>
 			);
 	}

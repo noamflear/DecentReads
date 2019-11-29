@@ -51,6 +51,8 @@ flex-direction:row;
 }
 .summary{
 	font-size: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 .person{
 	font-weight: bold;
@@ -108,7 +110,7 @@ flex-direction:row;
 	display: inline;
 	float: left;
 }
-.button{
+.navButton{
 	margin-right: 30px;
 	margin-top: 7px;
 	float: right;
@@ -120,8 +122,8 @@ flex-direction:row;
 	height: 823px;
 	z-index: 1;
 }
-.button:hover{
-	color: green;
+.navButton:hover{
+	color: #ff8f8f !important;
 }
 .mainCenter{
 	margin-top: -500px;
@@ -144,10 +146,11 @@ flex-direction:row;
 	height: 50px;
 	width: 140px;
 	margin-top: -950px;
-	margin-left: 600px;
+	margin-left: 650px;
 	margin-bottom: 800px;
 	z-index: 2;
 	position: relative;
+	transition: 0.5s;
 }
 .mainButton:hover{
 	background-color: #7FD1AE;
@@ -200,5 +203,22 @@ flex-direction:row;
 }
 #Summary4{
 	margin-left: 310px;
-
+}
+.reviewPageButton{
+	border: solid;
+	border-radius: 25px;
+	color: black;
+	height: 60px;
+	width: 100%;
+	z-index: 2;
+	position: relative;
+	transition: 0.5s;
+	margin-top: 30px;
+	margin-bottom: -20px;
+}
+.reviewPageButton:hover{
+	background-color: #2F4858;
+	transition: 0.5s;
+	text-decoration: none;
+	color: white;
 }
