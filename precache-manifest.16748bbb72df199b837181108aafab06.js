@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64a17113d257d53e4db1f6d545cfa697",
+    "revision": "6d09870687e596965f4a20a7a478df31",
     "url": "/DecentReads/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DecentReads/static/css/2.833dd627.chunk.css"
   },
   {
-    "revision": "89b7b8c1060c2c3acb83",
+    "revision": "ebac8eb044197a073fea",
     "url": "/DecentReads/static/css/main.62caa077.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DecentReads/static/js/2.e4ae5269.chunk.js"
   },
   {
-    "revision": "89b7b8c1060c2c3acb83",
-    "url": "/DecentReads/static/js/main.29445c86.chunk.js"
+    "revision": "ebac8eb044197a073fea",
+    "url": "/DecentReads/static/js/main.07b1e1c8.chunk.js"
   },
   {
     "revision": "66f11bcff955a1804f5a",
