@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/DecentReads/static/css/main.62caa077.chunk.css",
+    "main.js": "/DecentReads/static/js/main.29445c86.chunk.js",
+    "main.js.map": "/DecentReads/static/js/main.29445c86.chunk.js.map",
+    "runtime-main.js": "/DecentReads/static/js/runtime-main.25c12423.js",
+    "runtime-main.js.map": "/DecentReads/static/js/runtime-main.25c12423.js.map",
+    "static/css/2.833dd627.chunk.css": "/DecentReads/static/css/2.833dd627.chunk.css",
+    "static/js/2.e4ae5269.chunk.js": "/DecentReads/static/js/2.e4ae5269.chunk.js",
+    "static/js/2.e4ae5269.chunk.js.map": "/DecentReads/static/js/2.e4ae5269.chunk.js.map",
+    "index.html": "/DecentReads/index.html",
+    "precache-manifest.6756c9919d667d07bedfc692ee620028.js": "/DecentReads/precache-manifest.6756c9919d667d07bedfc692ee620028.js",
+    "service-worker.js": "/DecentReads/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/DecentReads/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.62caa077.chunk.css.map": "/DecentReads/static/css/main.62caa077.chunk.css.map",
+    "static/media/flow.jpg": "/DecentReads/static/media/flow.88516888.jpg",
+    "static/media/freeWill.jpg": "/DecentReads/static/media/freeWill.8249c324.jpg",
+    "static/media/header.jpg": "/DecentReads/static/media/header.c1334cf0.jpg",
+    "static/media/normPeople.jpg": "/DecentReads/static/media/normPeople.9123ecd6.jpg",
+    "static/media/oneWorld.jpg": "/DecentReads/static/media/oneWorld.51dd05f8.jpg",
+    "static/media/range.jpg": "/DecentReads/static/media/range.25c1093d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25c12423.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.e4ae5269.chunk.js",
+    "static/css/main.62caa077.chunk.css",
+    "static/js/main.29445c86.chunk.js"
+  ]
+}
